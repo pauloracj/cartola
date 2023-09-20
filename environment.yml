@@ -1,0 +1,4 @@
+name: cartola
+channels:
+  - defaults
+prefix: /home/pauloracj/miniconda3/envs/cartola
